@@ -1,3 +1,5 @@
+Para la ejecucion de este proyecto debe de tener instalado Node.js
+
 BASE DE DATOS
 1. Ejecuta el archivo database.sql o bien copia y pega su contenido en el gestor MySql que tu tengas
 
