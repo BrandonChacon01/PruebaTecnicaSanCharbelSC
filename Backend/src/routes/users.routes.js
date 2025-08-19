@@ -5,7 +5,7 @@ import {
 
 const router = Router();
 
-router.post("/user/new", postNewUser);
+router.post("/users", postNewUser);
 
 
 export default router;
